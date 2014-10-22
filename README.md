@@ -31,75 +31,25 @@ PHP FIG(框架协同工作组)
 [官方仓库]: https://github.com/php-fig/fig-standards
 
 
-加入会员
+申请加入组员
 ---------------------
 
-*不要*在 [邮件列表][] 讨论成为遴选会员。
+*不要*在 [邮件列表][] 讨论成为可投票的成员。
 
-要成为一个遴选会员，你可以发送邮件到 [邮件列表][]
+要成为一个组员，你可以发送邮件到 [邮件列表][]
 
 - 主题这么写：`Membership Request: {$你的名字} ({$项目名称})`
 
 - 内容可以包括你的名字，可以链接代表你的项目或者其他的合适的信息
   
-现在的会员将会对你的请求进行投票。
+现在的成员将会对你的请求进行投票。
 
 不要在一个主题贴提多个入会要求；一个帖子只能有一个请求。
 
 
-遴选会员
---------------
+可投票成员
+--------
 
-1. Nate Abele: Lithium
+目前的可投票成员的列表放在[项目官网][]。
 
-1. Nils Adermann: phpBB
-
-1. Brett Bieber: PEAR, PEAR2
-    
-1. Guilherme Blanco: Doctrine, Doctrine2, et al.
-
-1. Jordi Boggiano: Composer, Packagist
-
-1. Karma Dordrak: Zikula
-
-1. Paul Dragoonis: PPI, PPI2
-
-1. William Durand: Propel, Propel 2
-
-1. Andrew Eddie: Joomla
-
-1. Cal Evans: the community at large
-
-1. Larry Garfield: Drupal
-
-1. Ivan Habunek: Apache log4php
-
-1. Paul M. Jones: Solar Framework, Aura Project
-
-1. Robert Lemke: TYPO3 Flow, TYPO3 Neos
-
-1. Larry Masters: CakePHP, CakePHP 2
-
-1. John Mertic: SugarCRM
-
-1. Ryan Parman: Amazon Web Services SDK
-
-1. Evert Pot: SabreDAV
-
-1. Fabien Potencier: Symfony, Symfony2
-
-1. Andre Romcke: eZ Publish
-
-1. Paul Scott: Chisimba, C4
-
-1. Phil Sturgeon: PyroCMS
-
-1. Lukas Smith: Jackalope
-
-1. Kris Wallsmith: Assetic, Buzz
-
-1. Mike van Riel: phpDocumentor
-
-1. ?: Zend Framework
-
-1. David Zülke: Agavi
+[项目官网]: http://www.php-fig.org/
